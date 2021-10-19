@@ -1,0 +1,14 @@
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\bin\Debug\netcoreapp3.1\RadioSongs.exe
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\bin\Debug\netcoreapp3.1\RadioSongs.deps.json
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\bin\Debug\netcoreapp3.1\RadioSongs.runtimeconfig.json
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\bin\Debug\netcoreapp3.1\RadioSongs.runtimeconfig.dev.json
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\bin\Debug\netcoreapp3.1\RadioSongs.dll
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\bin\Debug\netcoreapp3.1\RadioSongs.pdb
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.AssemblyInfo.cs
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.dll
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.pdb
+C:\Users\alexs\source\repos\RadioSongs\RadioSongs\obj\Debug\netcoreapp3.1\RadioSongs.genruntimeconfig.cache
